@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I’m Yeoeun Yu
+## 🚀 About Me
+- 🎓 성균관대학교/인공지능융합전공
+ex. - 🎓 B.S. in Data Science and Management, Tech University of Korea
+💡 Interested in Data Science
+---
+## 🛠 Tech Stack
+### 💻 Languages
+[Python], [SQL]
 
-<!--
-**annie26751/annie26751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data & ML
+Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+## 🔥Activities
+BITAmin (AI Club) — 16th Staff  (Jul 2025 – present)
+---
+## 📫 Contact
+[컨택 가능한 본인의 플랫폼을 작성하시오]
+ex. - Email: annie26751@gmail.com, - LinkedIn: https://www.linkedin.com/in/yeoeun-yu-a07452296/
+---
