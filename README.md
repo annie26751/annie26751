@@ -1,5 +1,5 @@
-🚀 Hello, I'm Yeoeun Yu
-💡 Data Scientist & AI Researcher in the Making
+## 🚀 Hello, I'm Yeoeun Yu
+### 💡 Data Scientist & AI Researcher in the Making
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </div>
 
-🎓 Education & Interests
+### 🎓 Education & Interests
 Sungkyunkwan Univ. | Artificial Intelligence Convergence (Major)
 
 Focus Areas: * Computer Vision & NLP: MediaPipe, Object Detection, RAG Pipeline
@@ -16,26 +16,23 @@ Financial AI: Time-series analysis (GARCH), RL-based Stock Trading
 
 Model Optimization: Quantization (GPTQ), Efficient Inference
 
-🛠 Tech Stack
-💻 Languages & Frameworks
+### 🛠 Tech Stack
+### 💻 Languages & Frameworks
 Languages: Python, C++, SQL
 
 ML Frameworks: PyTorch, TensorFlow, Scikit-learn
 
-Data Science: Pandas, NumPy, Matplotlib, GARCH Modeling
+Data Science: Pandas, NumPy, Matplotlib
 
 Dev Tools: Git, Unity, Figma
 
-🔥 Activities
+### 🔥 Activities
 GDG on Campus SKKU | Core Member / Organizer (2025.07 - Present)
 
 BITamin (Data Analysis Club) | 16th Staff & Magazine TF (2025.07 - Present)
 
-Project "DIGIMON" | PM & Full-stack Lead for Small Business Digital Transformation Hub
 
-SK Earthon Collaboration | Global Contract RAG System Development (Excellence Award)
-
-📫 Contact & Links
+### 📫 Contact & Links
 Email: annie26751@gmail.com
 
 LinkedIn: Yeoeun Yu
