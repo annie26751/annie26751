@@ -1,21 +1,41 @@
-# 👋 Hello, I’m Yeoeun Yu
-## 🚀 About Me
-- 🎓 성균관대학교/인공지능융합전공
-ex. - 🎓 B.S. in Data Science and Management, Tech University of Korea
-💡 Interested in Data Science
----
-## 🛠 Tech Stack
-### 💻 Languages
-[Python], [SQL]
+🚀 Hello, I'm Yeoeun Yu
+💡 Data Scientist & AI Researcher in the Making
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</div>
 
-### 📊 Data & ML
-Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
+🎓 Education & Interests
+Sungkyunkwan Univ. | Artificial Intelligence Convergence (Major)
 
---- 
-## 🔥Activities
-BITAmin (AI Club) — 16th Staff  (Jul 2025 – present)
----
-## 📫 Contact
-[컨택 가능한 본인의 플랫폼을 작성하시오]
-ex. - Email: annie26751@gmail.com, - LinkedIn: https://www.linkedin.com/in/yeoeun-yu-a07452296/
----
+Focus Areas: * Computer Vision & NLP: MediaPipe, Object Detection, RAG Pipeline
+
+Financial AI: Time-series analysis (GARCH), RL-based Stock Trading
+
+Model Optimization: Quantization (GPTQ), Efficient Inference
+
+🛠 Tech Stack
+💻 Languages & Frameworks
+Languages: Python, C++, SQL
+
+ML Frameworks: PyTorch, TensorFlow, Scikit-learn
+
+Data Science: Pandas, NumPy, Matplotlib, GARCH Modeling
+
+Dev Tools: Git, Unity, Figma
+
+🔥 Activities
+GDG on Campus SKKU | Core Member / Organizer (2025.07 - Present)
+
+BITamin (Data Analysis Club) | 16th Staff & Magazine TF (2025.07 - Present)
+
+Project "DIGIMON" | PM & Full-stack Lead for Small Business Digital Transformation Hub
+
+SK Earthon Collaboration | Global Contract RAG System Development (Excellence Award)
+
+📫 Contact & Links
+Email: annie26751@gmail.com
+
+LinkedIn: Yeoeun Yu
