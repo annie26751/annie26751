@@ -17,7 +17,7 @@ Financial AI: RL-based Stock Trading, CSS modeling
 
 ### 🛠 Tech Stack
 ### 💻 Languages & Frameworks
-Languages: Python, C++, SQL
+Languages: Python, SQL
 
 ML Frameworks: PyTorch, TensorFlow, Scikit-learn
 
