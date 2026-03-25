@@ -14,7 +14,6 @@ Focus Areas: * Computer Vision & NLP: MediaPipe, Object Detection, RAG Pipeline
 
 Financial AI: RL-based Stock Trading, CSS modeling
 
-Model Optimization: Quantization (GPTQ), Efficient Inference
 
 ### 🛠 Tech Stack
 ### 💻 Languages & Frameworks
