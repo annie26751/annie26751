@@ -1,5 +1,4 @@
 ## 🚀 Hello, I'm Yeoeun Yu
----
 ### 💡 Data Scientist & AI Researcher
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
